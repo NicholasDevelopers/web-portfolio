@@ -3,6 +3,8 @@
 Website portofolio pribadi untuk menampilkan profil, skill, dan project yang pernah dikerjakan.  
 A personal portfolio website to showcase profile, skills, and completed projects.
 
+View Live : https://nicholasdevelopers.github.io/web-portfolio/
+
 ## Features
 - Landing page sederhana / Simple landing page
 - About, Education, Skills, and Projects section
