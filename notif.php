@@ -1,0 +1,1 @@
+Anda dapat mengunduh versi terbaru/mencari tahu tentang pembaruan di sini: https://nicholasdeveloper.tk Download the latest version here: https://nicholasdeveloper.tk
